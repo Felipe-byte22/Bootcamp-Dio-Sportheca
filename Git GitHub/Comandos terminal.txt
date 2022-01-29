@@ -1,0 +1,7 @@
+Lista de comandos do terminal do Windows/Linux:
+
+- cd (ambos) = mudar de diretório;
+- cd.. (ambos) = volta para o repositório anterior;
+- dir / ls = lista os repositórios;
+- mkdir (amnbos) = criar diretórios;
+- del ou rmdir / rm -rf = deletar diretórios.

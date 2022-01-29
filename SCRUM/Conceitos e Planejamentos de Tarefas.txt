@@ -1,0 +1,20 @@
+		Conceitos e Planejamentos de Tarefas
+
+Épicos são quebrados em estórias, e estórias são quebradas em tarefas.
+
+Estória = tarefa descrita em nível de negócio.
+
+Tarefas = conjunto de atividades que o time de desenvolvimento deve desempenhar para entregar a estória.
+
+Critério de Aceite:
+É uma lista de critérios que precisam ser alcançados para que a estória atenda os requisitos do usuário e seja aceita pelo Product Owner.
+Os critérios de aceitação têm o objetivo de: definir limites para as estórias. Ajudar o PO a detalhar em alto nível o que é necessário para entregar valor ao cliente.
+
+Planning Poker:
+Cada membro recebe um deck de cartas contendo todos os números da sequência de Fibonacci. Quando todos estão prontos, as estórias são lidas e as tarefas são criadas. Quando estiver tudo criado, o time joga uma das cartas falando qual é o tamanho dessa atividade (deve se levar em conta a complexidade, o trabalho manual em si e o tempo para definição do tamanho).
+- 1 = simples;
+- 13 = muito difícil;
+- 20 = a tarefa ou estória está grande demais.
+Os membros dos times que derem a menor e maior nota devem justificar a sua votação.
+
+Stakeholder = pessoa ou grupo que legitima as ações de uma organização e que tem um papel direto ou indireto na gestão e resultados dessa mesma organização.

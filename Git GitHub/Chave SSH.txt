@@ -1,0 +1,1 @@
+Chave SSH - forma segura e encriptada de estabelecer uma conexão entre duas máquinas.

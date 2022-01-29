@@ -1,0 +1,22 @@
+Pensamento computacional - Refere-se ao processo envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador.
+
+4 pilares:
+- Decomposição = dividir um problema complexo em subproblemas;
+- Reconhecimento de padrões = identificar padrões ou tendências;
+- Abstração = extrapolar o conceito do problema para uma forma generalista;
+- Design de Algoritmos = definir passo a passo a solução do problema.
+
+Processo Contínuo:
+- Definir uma solução;
+- Testar a solução;
+- Aperfeiçoamento da solução encontrada.
+
+Variação dos pilares:
+- Raciocínio Lógico;
+- Refinamento.
+
+Competências:
+- Pensamento sistemático;
+- Colaboração dentro da equipe;
+- Criatividade de Design;
+- Facilitador. 

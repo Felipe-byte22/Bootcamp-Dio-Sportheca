@@ -1,0 +1,13 @@
+Product Owner (PO):
+
+O Product Owner (PO) representa o profissional que tem a visão do que será desenvolvido, as necessidades a serem atendidas, o público que vai utilizar os serviços e os objetivos a serem alcançados.
+
+Refining (não é cerimônia oficial) - o PO apresenta para o time as histórias que serão apresentadas na planning, para saber previamente o que será desenvolvido e responder as perguntas do time.
+
+Release Planning - liberação ou lançamento de software, é o lançamento de nova versão oficial de produto de software. Cada vez que um produto de software é criado ou modificado, o fabricante e os seus desenvolvedores decidem sobre como distribuir ou o novo produto ou a modificação às pessoas que o utilizam.
+
+Existem 2 tipos de Release Plannings:
+
+- Release Planning de Múltiplas Squads: são vários times de devs agrupados, fazendo várias coisas distintas que podem ou não ter correlação entre as atividades, mas que no final da sprint precisam ser agrupadas em uma única release para a entrega da produção.
+
+- Release Planning de Projeto: o PO possui uma demanda muito grande e que será necessário quebrar em várias estórias, consequentemente quebrar em várias sprints.

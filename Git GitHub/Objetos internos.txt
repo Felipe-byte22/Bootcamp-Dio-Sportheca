@@ -1,0 +1,5 @@
+Objetos Internos do GIT
+
+Blob = bloco básico de composição de metadados.\0
+Tree = armazena e aponta para tipos de dados diferentes, responsável pela estrutura. \0
+Commit = é o objeto que vai dar sentido para a alteração, apontando para uma árvore, parente, autor, mensagem. 

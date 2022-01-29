@@ -1,0 +1,6 @@
+Tabela Hash - estrutura especial de dispersão ou espalhamento, que associa chaves de pesquisa a valores.
+A tabela Hash é uma generalização da ideia de array, porém utiliza uma função denominada Hashing para espalhar os elementos, fazendo com que os mesmos fiquem de forma não ordenada dentro do "array" que define a tabela.
+
+A tabela Hash permite a associação de "valores" a "chaves".
+Valores - é a posição ou índice onde o elemento se encontra.
+Chave: parte de informação que compõe o elemento a ser manipulado.

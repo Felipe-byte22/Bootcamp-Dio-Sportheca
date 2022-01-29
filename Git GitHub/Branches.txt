@@ -1,0 +1,3 @@
+Branches - é um "galho", uma alteração paralela do código principal, feita para ser um rascunho, antes de dar um commit no código principal. Serve para fazer trabalhos paralelos a partir de um determinado ponto de commits, para depois reintegralos junto com o main.
+
+Tag Head - aponta sempre para o último commit de uma branch.

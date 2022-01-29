@@ -1,0 +1,3 @@
+SHA - Secure de Hash Seguro
+É um conjunto das funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA).
+Essa encriptação gera um conjunto de caracteres identificador de 40 digitos.

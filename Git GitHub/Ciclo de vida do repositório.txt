@@ -1,0 +1,14 @@
+Arquivo untracked = arquivo recém-criado (não rastreado pelo git), que através do comando git add, vai para área Staged, onde estará no aguardo do commit.
+
+Arquivo unmodified = arquivo dentro do repositório que não sofreu modificação. Para passar como arquivo modified, o git verifica, através do sha1, se o arquivo sofreu ou não alteração.
+*Arquivos unmodified que ainda não sofreram alteração, passam como arquivos untracked novamente.
+
+Arquivo modified = arquivo que sofreu alteração e passa como um arquivo staged.
+
+Arquivo staged = arquivo que aguarda a ação commit, onde o arquivo vai sofrer alterações com significância. O commit retorna todos esses arquivos para unmodified, cria uma Snapshot (foto) desse código e o ciclo começa novamente.
+
+Ambiente de Desenvolviento:
+
+Repositório remoto = Github
+
+Os arquivos irão sempre alterar entre o repositório de trabalho e a área de staged. Quando se faz o commit, o arquivo passa a integrar o repositório local, que por sua vez, pode ser empurrado para o repositório remoto. Ou seja, todo arquivo do repositório local deve estar commitado, senão não é possível enviar o arquivo para o repositório remoto.

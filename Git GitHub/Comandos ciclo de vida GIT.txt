@@ -1,0 +1,10 @@
+git add nomeArquivo
+git add*
+git add.
+
+Move os arquivos (Untracked ou modified) direto para a area staged.
+
+git commit -m "msg"
+
+Comando para commitar todos os arquivos staged
+

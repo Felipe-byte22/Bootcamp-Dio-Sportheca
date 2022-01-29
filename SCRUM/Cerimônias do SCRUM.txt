@@ -1,0 +1,29 @@
+			Cerimônias do Scrum
+
+Time Box - Tempo máximo de uma cerimônia.
+
+Sprint = corrida, é o principal evento do Scrum.
+Duração de 1 sprint: máximo de 30 dias.
+
+Composição de uma sprint:
+- Planejamento da Sprint;
+- Reuniões diárias (Daily Meeting);
+- Revisão da Sprint (Review);
+- Retropectiva da Sprint.
+
+Planejamento da Sprint: time box de 8h (Sprint de 30 dias).
+- O que fazer? 4h com o PO.
+- Como fazer? 4h com o DEV.
+
+Planning Poker - cada um opina sobre uma estimativa de cada tarefa, e o time entra em consenso sobre as estimativas. Depois é verificado se tudo que o PO pediu vai ser entregado naquela sprint.
+
+Reuniões da Sprint (Daily Meeting):
+Reuniões que abordam tudo aquilo que falta fazer, o que já está sendo feito e o que já foi finalizado.
+Time Box = 15 min. (Sprint 30 dias)
+
+Revisão da Sprint (Review):
+- No último dia da Sprint, o time DEV apresenta para o PO o trabalho feito. - Time Box = 4h (Sprint 30 dias)
+
+Retrospectiva da Sprint:
+- Reunião da equipe para Lições Aprendidas.
+Time Box - 3h (Sprint 30 dias)

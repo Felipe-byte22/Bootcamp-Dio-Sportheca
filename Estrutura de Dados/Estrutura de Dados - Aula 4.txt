@@ -1,0 +1,8 @@
+Listas - possuem o tamanho ajustável.
+Arrays - possuem o tamanho fixo.
+
+Existem dois tipos de listas:
+- Lista ligada;
+- Lista duplamente ligada.
+
+Na lista ligada, existem os nós e onde cada um dos nós conhece o valor que esta sendo armazendao em seu interior, além de conhecer o elemento posterior a ele, ou seja, os nós são amarrados com essa indicação de qual é o próximo nó. Já as listas duplamente ligadas são bidirecionais, ou seja, não só sabem qual é o próximo elemento, como também quem é o elemento anterior, permitindo a navegação reversa.

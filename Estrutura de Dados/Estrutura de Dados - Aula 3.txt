@@ -1,0 +1,1 @@
+Um Registro é uma estrutura que fornece um formato especializado para armazenar informações em memória, já que permite armazenar mais de um tipo de dado.

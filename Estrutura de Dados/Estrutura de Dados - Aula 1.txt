@@ -1,0 +1,13 @@
+Estrutura de dados é uma estrutura organizada de dados na memória de um computador ou qualquer dispositivo que armazene dados, que possam ser utilizados de forma correta.
+
+Um algoritmo é um conjunto de instruções estruturadas e ordenadas, seu objetivo é realizar uma tarefa ou operação específica. São utilizados para manipular dados de várias formas, como por exemplo: inserir, excluir, procurar e ordenar dados.
+
+Principais estruturas de dados:
+- Vetores e Matrizes (Arrays);
+- Registro;
+- Lista;
+- Pilha;
+- Fila;
+- Árvore;
+- Tabela Hash;
+- Grafos.

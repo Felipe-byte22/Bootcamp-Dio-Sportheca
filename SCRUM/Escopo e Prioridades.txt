@@ -1,0 +1,18 @@
+Escopo e Prioridades
+
+Product Backlog - composto por:
+- Épicos = incremento sem muito detalhamento, ajuda a te direcionar nos caminhos que deve seguir.
+- Estória = detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e suas regras de negócio.
+
+Escrevendo uma estória:
+- Nome da Estória;
+- Descrição da Estória (Eu, Como, Quero, Quando);
+- Regras de Negócio (Separar Regras de Front-End de Regras de Back-End);
+- Tela (link ou imagem das telas a serem desenvolvidas);
+- KPI (Quais os objetivos/valor a estória precisa atingir);
+- Tagueamento (Como a estória será "Tagueada" para poder mensurar os KPI);
+- Critérios de Aceite (Qual o Passo a Passo de todos os Caminhos Felizes possíveis a estória deve cumprir para que ela seja considerada aceita).
+
+Riscos:
+- Positivos = muito ignorado nos projetos, porém um dos fatores de maiores ganhos no desenvolvimento de sistemas.
+- Negativos = itens que podem afetar o prazo, custo ou escopo de um projeto d maneira que pode acabar inviabilizando-o. 

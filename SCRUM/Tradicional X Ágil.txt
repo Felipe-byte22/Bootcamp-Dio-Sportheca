@@ -1,0 +1,38 @@
+			Gestão de Projetos Ágil
+
+			Tradicional X Ágil
+Tradicional: só permite que o projeto avance quando uma fase está inteiramente completa.
+Características:
+- Escopo definido na fase inicial do projeto (preditivo);
+- Projeto é controlado por fases e marcos;
+- Cliente só vê o software funcionando na fase final do Projeto;
+- Resistência a mudanças.
+Com os projetos Waterfall, você descobre que estava errado depois de meses.
+
+Ágil: software construído por partes (incremental) e cada parte executa-se em um ciclo (iterativo).
+Características:
+- Escopo definido ao longo do Projeto (Adaptativo);
+- Projeto é controlado por funcionalidades entregues;
+- Cliente pode ver parte do software funcionando na parte inicial do Projeto;
+- Mudanças constantes de acordo com o feedbacks contínuos.
+Com os projetos ágeis, você descobre que estava errado em dias.
+
+O que é ser Ágil?
+- Rapidez nas mudanças e desembaraço;
+- Fazer coisas complexas de forma simples;
+- Equipe comprometida com os objetivos;
+- Maior valor para o cliente.
+
+SCRUM trabalha com equipes pequenas e multidisciplinares que produzem os melhores resultados.
+
+Pilares do Scrum: Transparência, Adaptação e Inspeção.
+
+Vantagens do SCRUM:
+- Desenvolvido e entregue em menor tempo, com constante feedback dos usuários;
+- Melhor gerenciaento de risco;
+- Comprometimento, motivação e transparência da equipe;
+- Maior valor para o negócio; (Priorização do Backlog = lista ordenada de tudo o que é necessário para maximizar o valor do produto.)
+- Usuários envolvidos durante todo o ciclo;
+- Aplicação das lições aprendidas. (melhoria contínua)
+
+O SCRUM é bastante utilizado pelas Startups, por causa do mínimo produto viável.

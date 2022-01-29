@@ -1,0 +1,18 @@
+				Ritos
+Daily:
+- O que eu fiz ontem?
+- O que eu irei fazer hoje?
+- O que eu farei?
+
+Retro:
+- Executada uma vez depois da sprint;
+- Discutido aquilo que foi bom e ruim.
+
+Participação obrigatória da Daily: o time de desenvolvimento apenas.
+Participação obrigatória da Daily: o time de desenvolvimento e o SM.
+
+Refinamento - é discutido sobre a próxima sprint, com a finalidade de aumentar o entendimento sobre a demanda e melhorar a qualidade da entrega. Acontece um passo antes da Planning, no final da sprint anterior.
+
+Review - oportunidade de apresentar o trabalho que cada um desenvolveu durante a sprint anterior. O objetivo é verificar se a demanda agrega ao negócio.
+
+Maturidade: pilares do Scrum.

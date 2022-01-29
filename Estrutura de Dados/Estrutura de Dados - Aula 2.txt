@@ -1,0 +1,3 @@
+Vetores e Matrizes (Arrays) são estruturas de dados simples que podem auxiliar quando tem muitas variáveis do mesmo tipo em um algoritmo.
+Vetor ou array uni-dimensional é uma variável que armazena várias variáveis do mesmo tipo. O vetor é uma estrutura de dados indexada, que pode armazenar uma determinada quantidade de valores do mesmo tipo.
+Matriz ou array multi-dimensional é um vetor de vetores. Matriz é um vetor que possui duas ou mais dimensões.
